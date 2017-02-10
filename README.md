@@ -7,7 +7,7 @@ This module is for advanced users.
 ## Install
 
 ```bash
-npm install eslint-config-standard-alternative
+npm install eslint-config-standard-extended
 ```
 
 ## Usage
@@ -20,14 +20,14 @@ official ESLint website.
 To use the JavaScript Standard Style shareable config, first run this:
 
 ```bash
-npm install --save-dev eslint-config-standard-alternative
+npm install --save-dev eslint-config-standard-extended
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": "standard-alternative"
+  "extends": "standard-extended"
 }
 ```
 
